@@ -1,0 +1,68 @@
+.destination-border{
+    border-top: 1px solid rgb(196, 194, 194);
+}
+.font-weight{
+    font-weight: 500;
+}
+.destination-info input[type="text"]{
+    font-weight: 500;
+    color: black;
+}
+
+input[type="text"]::placeholder{
+    font-weight: 400;
+}
+.label{
+    color: gray;
+}
+.destinationDetails{
+    background-color: #f7f4f4;
+    padding: 20px;
+    border-radius: 10px;
+}
+.destination-location{
+    background-color: rgb(209, 94, 48);
+    color: white;
+    font-weight: 500;
+    padding: 18px;
+    border-radius: 10px;
+}
+.destination-location h5{
+    font-size: 18px;
+    margin-left: 1rem;
+}
+.destination-rider{
+    background-color: white;
+}
+.destination-rider{
+    padding: 15px;
+    border-radius: 5px;
+}
+.rider-img,
+.userIcon,
+.riderPrice{
+    display: flex;
+    align-items: center;
+}
+.MuiTimeline-root{
+    padding: 0px 0px !important;
+    justify-content: center !important;
+    align-items: end !important;
+}
+.MuiTimelineItemStyle{
+    min-height: 0px !important;
+}
+.content{
+    font-size: 18px;
+}
+.MuiTimelineContent-root {
+    padding: 1px 16px !important;
+}
+.MuiTimelineItem-missingOppositeContent:before{
+    padding: 6px 0px;
+}
+.MuiTimelineDot-defaultGrey {
+    color: white !important;
+    border-color: white !important;
+    background-color: white !important;
+}

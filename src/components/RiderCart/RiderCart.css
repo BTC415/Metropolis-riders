@@ -1,0 +1,16 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
+.card img{
+    padding: 10px;
+    width:60%;
+    margin-top: 3rem;
+    height: 100px;
+}
+.card-info a{
+    text-decoration: none !important;
+    color: rgb(27, 27, 27) !important;
+}

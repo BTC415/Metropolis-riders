@@ -1,0 +1,36 @@
+.navbar-brand{
+    font-size: 28px;
+}
+.navbar-nav .nav-link,
+.navbar-brand{
+    color: black !important;
+}
+.navbar-nav .nav-link:hover{
+    color: rgb(63, 62, 62) !important;
+}
+.navbar-nav .nav-link,
+.login-btn{
+    margin: 0px 10px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.nav-icon{
+    background-color: #464646;
+    color: white;
+}
+.btn-style{
+    background-color: rgb(243, 108, 55);
+    color: white;
+    transition: all .3s;
+}
+.btn-style:hover{
+    background-color: rgb(209, 94, 48);
+    color: white;
+}
+.user-name{
+    font-size: 18px;
+    font-weight: 700 !important;
+}
+.font-weight{
+    font-weight: 500 !important;
+}

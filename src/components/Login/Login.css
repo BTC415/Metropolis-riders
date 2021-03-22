@@ -1,0 +1,70 @@
+.login-area{
+    border: 1px solid rgb(196, 194, 194);
+    padding: 0px 30px;
+    display: block;
+    margin: 0px auto;
+    padding-top: 15px;
+}
+.btn-style{
+    background-color: rgb(243, 108, 55);
+    color: white;
+    transition: all .3s;
+}
+.btn-style:hover{
+    background-color: rgb(209, 94, 48);
+    color: white;
+}
+.link-span{
+    cursor: pointer;
+    text-decoration: underline;
+    color: #dc3545;
+    transition: all .3s;
+}
+.link-span:hover{
+    color: #b6303d;
+}
+.extra-info{
+    display: block;
+    margin: 0px auto;
+}
+.or{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.extra-info .border-bottom{
+    border-bottom: 1px solid rgb(196, 194, 194) !important;
+}
+.social-link{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+.btn-facebook{
+    width: 75%;
+    border: 1px solid rgb(196, 194, 194);
+    border-radius: 30px;
+}
+.forget{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.form-group p{
+    color: rgb(185, 14, 14);
+}
+.success-alert{
+    color: green !important;
+    font-weight: 600 !important;
+}
+
+@media (min-width: 768px){
+   .login-area{
+        width: 50%;
+   }
+}
+
+@media only screen and (min-width: 668px){
+    .extra-info{
+        width: 50%;
+    }
+}

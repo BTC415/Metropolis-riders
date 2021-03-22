@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": " Bike",
+        "image": "https://i.ibb.co/c3zF9Kf/bike.png",
+        "price": 45,
+        "seats": 2
+      }, {
+        "id": 2,
+        "name": "Bus",
+        "image": "https://i.ibb.co/ScLs6sG/bus.png",
+        "price": 65,
+        "seats": 7
+      }, {
+        "id": 3,
+        "name": "Car",
+        "image": "https://i.ibb.co/qyBdSY9/car.png",
+        "price": 82,
+        "seats": 4
+      }, {
+        "id": 4,
+        "name": "Train",
+        "image": "https://i.ibb.co/Ht5WDqF/train.png",
+        "price": 50,
+        "seats": 15
+      }
+]
